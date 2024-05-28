@@ -92,5 +92,5 @@ Week 12:
   Anti-lab 2
 - Daria Hruchyna
 - https://github.com/DariaHrychyna/Hrychyna.University.InteractivePlantCareAssistant.git
-- 
+- https://github.com/DariaHrychyna/Bodnar.University.Miro_Board/pull/1
   
