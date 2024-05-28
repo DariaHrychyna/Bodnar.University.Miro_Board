@@ -85,3 +85,12 @@ Week 12:
   - Develop UI components for creating and using custom templates
   - Integrate template management with the whiteboard interface
   - Test custom templates with different project scenarios and configurations
+
+
+  ________________________________________________________________________________________
+
+  Anti-lab 2
+- Daria Hruchyna
+- https://github.com/DariaHrychyna/Hrychyna.University.InteractivePlantCareAssistant.git
+- 
+  
